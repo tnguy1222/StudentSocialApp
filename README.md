@@ -2,11 +2,17 @@
 <p>This project is a social web application for networking and career seeking using PHP Laravel framework to interact with MySQL and Azure cloud deployment</p>
 
 # Author:
- Thong Phan Tue Nguyen
- Adam Bender
+ <p> Thong Phan Tue Nguyen </p>
+ <p> Adam Bender </p>
 
 # Technical Design
-This project uses Laravel framework in PHP, MySQL for database design, Laravel Blade for front end and GitHub for collaboration
+<p>This project uses Laravel framework in PHP, MySQL for database design, Laravel Blade for front end and GitHub for collaboration. </p>
+<p> The project applies N-Layer Architecture and best pratices to create an organized and easy to maintain web application. </p>
+
+<p align="center">
+ <img src="CST256-CLCProject/Diagrams/N-Layer.png"/>
+ </p>
+
 
 # ER Diagram
 <p align="center">
