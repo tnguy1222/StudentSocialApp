@@ -19,10 +19,6 @@
  <img src="CST256-CLCProject/Diagrams/ER-Diagram.png"/>
  </p>
 
-# DDL Script
-
-CST256-CLCProject/Milestone7DDL.sql
-
 # Flow Chart 
 
 <p align="center">
