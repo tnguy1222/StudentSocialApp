@@ -22,6 +22,12 @@ CST256-CLCProject/Milestone7DDL.sql
 <p align="center">
  <img src="CST256-CLCProject/Diagrams/Flowchart.png"/>
  </p>
+ 
+ # Sitemap
+ 
+ <p align="center">
+ <img src="CST256-CLCProject/Diagrams/Sitemap.png"/>
+ </p>
 # Walkthrough
 1. User needs to create an account to access the web app. An account includes first name, last name, username, password, email and role with option to be admin or normal user. 
 <p align="center">
