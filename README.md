@@ -1,4 +1,4 @@
-## StudentSocialApp
+## Student Social App
 <p>This project is a social web application for networking and career seeking using PHP Laravel framework to interact with MySQL and Azure cloud deployment</p>
 
 # Author:
