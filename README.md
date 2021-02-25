@@ -71,5 +71,3 @@
 # Hosting URL: 
 https://cst256.azurewebsites.net/
 
-# Github Repository 
-https://github.com/abomb07/CST256-CLCProject.git
